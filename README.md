@@ -1,6 +1,8 @@
-![profile](https://user-images.githubusercontent.com/7629288/195146088-c0e926f6-68cb-432e-80ca-3cd10bbdc793.svg)
+<img width="812" alt="header" src="https://user-images.githubusercontent.com/7629288/195148848-8e20ad49-d0c0-423d-bb29-0aeb82106327.png">
 
-I specialize in Front-end Technologies and have good experience at making Production ready  <br />applications.
+
+
+I specialize in Front-end Technologies and have good experience at making Production ready applications.
 
 ⚡ More Facts:
 - :computer: Always ready to contribute to any part of the technology stack.
@@ -12,7 +14,7 @@ I specialize in Front-end Technologies and have good experience at making Produc
 <br />
 <br />
 
+<img width="812" alt="footer" src="https://user-images.githubusercontent.com/7629288/195148946-66931fb2-555f-4235-9b72-10d91d85bba6.png">
 
-![footer](https://user-images.githubusercontent.com/7629288/195146628-6c34d7be-0e8c-4692-83b8-9da64a63aa7e.svg)
 
 
